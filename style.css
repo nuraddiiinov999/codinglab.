@@ -1,0 +1,170 @@
+body {
+    margin: auto;
+    background-color: #585353;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-image: url(https://pin.it/7hf8RXqce
+)
+}
+
+
+
+.Cod {
+    float: left;
+    color: white;
+    padding-top: 10px;
+    font-size: 25px;
+    
+
+}
+
+.banner {
+    align-items: center;
+    text-align: center;
+
+}
+
+.banner h1 {
+    color: white;
+    align-items: center;
+    font-size: 35px;
+    padding-top: 100px;
+
+}
+
+.banner button {
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 2px solid white;
+}
+
+.birinchi {
+    color: rgb(175, 165, 165);
+    background: url();
+    margin: 10px;
+}
+
+.birinchi:hover {
+    background-color: rgb(136, 128, 128);
+    color: black;
+    font-size: 15px;
+    transition: 500ms;
+}
+
+.ikkinchi:hover {
+    background: url();
+    font-size: 15px;
+    transition: 500ms;
+    color: white;
+}
+
+.grid-container button {
+    margin: 30px;
+}
+
+.grid-container {
+    padding-top: 40px;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    gap: 15px;
+}
+
+.grid-container img {
+    padding-top: 15px;
+    height: 200px;
+}
+
+.grid-container button:hover {
+    background-color: rgb(3, 1, 1);
+    color: aliceblue;
+}
+
+body {
+    margin: auo;
+}
+
+nav {
+    display: block;
+    position: absolute;
+    top: 0;
+    background-color: #585353;
+}
+li:hover ul li{
+    color: blue;
+    border-radius: 4px;
+    transition: 500ms;
+}
+a:hover{
+    border-radius: 4px;
+    transition: 500ms;
+    color: orange;
+    font-size: 16px;
+}
+ul li ul li{
+    
+    padding: 0px 15px 0px 15px;
+   
+    margin-left: 2px;
+    margin-right: 2px;
+   
+    float: none;
+}
+ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(63, 56, 56);
+    padding-right: px;
+
+}
+
+li:hover {
+   
+    border-radius: 4px;
+    transition: 500ms;
+    color: orange;
+ 
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+a:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+li>ul {
+    display: none;
+}
+
+li:hover ul {
+    display: inline-block;
+    position: absolute;
+    
+    background-color: rgb(63, 56, 56);
+    
+}
+
+li:hover ul li a:link {
+    display: block;
+   
+}
+ul li ul{
+   
+    margin: 0px 0px 0px -53px;   
+}
+    
